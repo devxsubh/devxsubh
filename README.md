@@ -34,38 +34,6 @@
 
 ---
 
-*Generated using [patorjk.com/software/taag](https://patorjk.com/software/taag)*  
-Add it to the top of your README inside triple backticks for markdown.
-
----
-
-### ✅ **2. Custom Quote Carousel (Animated with HTML/CSS)**
-
-GitHub READMEs don’t support raw HTML+CSS animations directly 😔  
-However, I can give you a link-based carousel or GIF version, or you can embed it in your **portfolio instead**. Here's a sample (ideal for your site):
-
-```html
-<div class="quote-carousel">
-  <p>"Creating with intent."</p>
-  <p>"Coding with clarity."</p>
-  <p>"Designing with emotion."</p>
-</div>
-
-<style>
-.quote-carousel p {
-  animation: fadein 8s infinite;
-}
-@keyframes fadein {
-  0%   {opacity: 0;}
-  20%  {opacity: 1;}
-  40%  {opacity: 0;}
-  100% {opacity: 0;}
-}
-</style>
-```
-
----
-
 ## 📫 Let’s Connect  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/subham-mahapatra-27380b205/)  
 - 🌐 [Portfolio](https://the-portfolio-eight.vercel.app/)  
