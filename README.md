@@ -5,6 +5,13 @@
 
 ---
 
+### 🎧 Now Playing
+
+[![Spotify](https://novatorem-ivory-eight.vercel.app/api/spotify)](https://open.spotify.com/user/xqdtbb7qe698gjwywcy6blfvv)
+
+
+---
+
 ## 🛠️ Tech Stack  
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=000)
