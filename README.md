@@ -74,7 +74,7 @@
 
 ## 📫 Let’s Connect  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/subham-mahapatra-27380b205/)  
-- 🌐 [Portfolio](https://the-portfolio-eight.vercel.app/)  
+- 🌐 [Portfolio](https://the-portfolio-one.vercel.app/)  
 
 ---
 
