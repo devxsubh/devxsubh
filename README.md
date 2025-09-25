@@ -31,6 +31,7 @@
 ### 🧠 AI & ML  
 ![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat&logo=openai&logoColor=white)
 ![LangChain](https://img.shields.io/badge/-LangChain-000?style=flat&logo=data&logoColor=white)
+![RAG](https://img.shields.io/badge/-RAG-FF6B6B?style=flat&logo=search&logoColor=white)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas)
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy)
 ![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
@@ -43,7 +44,13 @@
 ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=redis&logoColor=fff)
 ![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat&logo=prisma)
 
+### 📦 Package Managers  
+![NPM](https://img.shields.io/badge/-NPM-CB3837?style=flat&logo=npm&logoColor=white)
+![PNPM](https://img.shields.io/badge/-PNPM-F69220?style=flat&logo=pnpm&logoColor=white)
+![Bun](https://img.shields.io/badge/-Bun-000?style=flat&logo=bun&logoColor=white)
+
 ### ☁️ Cloud & Hosting  
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
 ![Vercel](https://img.shields.io/badge/-Vercel-000?style=flat&logo=vercel)
 ![Render](https://img.shields.io/badge/-Render-00979D?style=flat&logo=render)
 ![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?style=flat&logo=netlify&logoColor=fff)
@@ -72,15 +79,41 @@
 
 ---
 
-## 📫 Let’s Connect  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/subham-mahapatra-27380b205/)  
-- 🌐 [Portfolio](https://subhammahapatra.in)  
+## 🌐 Let's Connect  
+
+<div align="center">
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/subham-mahapatra-27380b205/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://subhammahapatra.in)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/yourhandle)
+[![X (Twitter)](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/yourhandle)
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=subhammahapatra&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=subhammahapatra&layout=compact&theme=radical)
+
+</div>
 
 ---
 
 ## 👀 Visitor Counter  
-![Visitor Count](https://komarev.com/ghpvc/?username=subhammahapatra&color=blue)
+<div align="center">
+  
+![Visitor Count](https://komarev.com/ghpvc/?username=subhammahapatra&color=blue&style=for-the-badge)
+
+</div>
 
 ---
 
+<div align="center">
+
 > *"Creating with intent. Coding with clarity. Designing with emotion."*
+
+</div>
