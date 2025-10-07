@@ -1,7 +1,12 @@
-# 👋 Hey there, I'm Subham Mahapatra!
+<h1 align="center">Hi 👋, I'm Subham Mahapatra</h1>
 
-🎯 Full-stack Web Developer | 💡 AI/ML Enthusiast | 🧠 Building Agentic AI Systems & MCP Servers  
-🎨 Designer at heart | 🎵 Music lover | 🌸 Anime fan
+<h3 align="center">Aspiring AI/ML Engineer | Full-Stack Developer | Designer</h3>
+
+<p align="center">
+🚀 Passionate about building scalable web applications and intelligent agentic systems.<br>
+🎯 Currently exploring advanced AI architectures, automation pipelines, and cloud-native deployments.<br>
+🎨 Also love crafting delightful UI/UX experiences and designing creative digital interfaces.
+</p>
 
 ---
 
